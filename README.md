@@ -1,16 +1,13 @@
-# macha_client
+# macha-client
 
-A new Flutter project.
+Macha App README 입니다.
 
-## Getting Started
+## 시작하기
 
-This project is a starting point for a Flutter application.
+1. **Flutter 설치:**
+   - Flutter를 설치하려면 [Flutter 공식 사이트](https://flutter.dev/docs/get-started/install)를 참조하세요.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. **프로젝트 복제:**
+   ```bash
+   git clone https://github.com/your-username/MyFlutterApp.git
+   cd MyFlutterApp
