@@ -23,14 +23,14 @@ Macha App README 입니다.
 flutter --version
 Flutter 3.16.2 • channel stable • https://github.com/flutter/flutter.git
 Tools • Dart 3.2.2 • DevTools 2.28.3
+
 environment:
   sdk: ">=3.1.3 <4.0.0"
+
+  
 dependencies:
   flutter:
     sdk: flutter
-
-  # The following adds the Cupertino Icons font to your application.
-  # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   flutter_svg: ^2.0.9
   http: ^1.1.0
