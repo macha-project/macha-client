@@ -20,7 +20,7 @@ Macha App README 입니다.
 
 # Info
 
-sunwoopia@Sunwoo-Kim-MacBook-Pro ~ % flutter --version
+flutter --version
 Flutter 3.16.2 • channel stable • https://github.com/flutter/flutter.git
 Tools • Dart 3.2.2 • DevTools 2.28.3
 environment:
